@@ -1,0 +1,14 @@
+C:\Users\Мария\source\repos\triangle\triangle\bin\Debug\netcoreapp3.1\triangle.exe
+C:\Users\Мария\source\repos\triangle\triangle\bin\Debug\netcoreapp3.1\triangle.deps.json
+C:\Users\Мария\source\repos\triangle\triangle\bin\Debug\netcoreapp3.1\triangle.runtimeconfig.json
+C:\Users\Мария\source\repos\triangle\triangle\bin\Debug\netcoreapp3.1\triangle.runtimeconfig.dev.json
+C:\Users\Мария\source\repos\triangle\triangle\bin\Debug\netcoreapp3.1\triangle.dll
+C:\Users\Мария\source\repos\triangle\triangle\bin\Debug\netcoreapp3.1\triangle.pdb
+C:\Users\Мария\source\repos\triangle\triangle\obj\Debug\netcoreapp3.1\triangle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Мария\source\repos\triangle\triangle\obj\Debug\netcoreapp3.1\triangle.AssemblyInfoInputs.cache
+C:\Users\Мария\source\repos\triangle\triangle\obj\Debug\netcoreapp3.1\triangle.AssemblyInfo.cs
+C:\Users\Мария\source\repos\triangle\triangle\obj\Debug\netcoreapp3.1\triangle.csproj.CoreCompileInputs.cache
+C:\Users\Мария\source\repos\triangle\triangle\obj\Debug\netcoreapp3.1\triangle.dll
+C:\Users\Мария\source\repos\triangle\triangle\obj\Debug\netcoreapp3.1\triangle.pdb
+C:\Users\Мария\source\repos\triangle\triangle\obj\Debug\netcoreapp3.1\triangle.genruntimeconfig.cache
+C:\Users\Мария\source\repos\triangle\triangle\obj\Debug\netcoreapp3.1\Triangle.csproj.AssemblyReference.cache
