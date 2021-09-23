@@ -12,3 +12,16 @@ C:\Users\Мария\source\repos\triangle\triangle\obj\x86\Debug\netcoreapp3.1\T
 C:\Users\Мария\source\repos\triangle\triangle\obj\x86\Debug\netcoreapp3.1\Triangle.dll
 C:\Users\Мария\source\repos\triangle\triangle\obj\x86\Debug\netcoreapp3.1\Triangle.pdb
 C:\Users\Мария\source\repos\triangle\triangle\obj\x86\Debug\netcoreapp3.1\Triangle.genruntimeconfig.cache
+C:\Users\korce\Source\Repos\MaryaKharya\TiOPO\triangle\triangle\bin\x86\Debug\netcoreapp3.1\Triangle.exe
+C:\Users\korce\Source\Repos\MaryaKharya\TiOPO\triangle\triangle\bin\x86\Debug\netcoreapp3.1\Triangle.deps.json
+C:\Users\korce\Source\Repos\MaryaKharya\TiOPO\triangle\triangle\bin\x86\Debug\netcoreapp3.1\Triangle.runtimeconfig.json
+C:\Users\korce\Source\Repos\MaryaKharya\TiOPO\triangle\triangle\bin\x86\Debug\netcoreapp3.1\Triangle.runtimeconfig.dev.json
+C:\Users\korce\Source\Repos\MaryaKharya\TiOPO\triangle\triangle\bin\x86\Debug\netcoreapp3.1\Triangle.dll
+C:\Users\korce\Source\Repos\MaryaKharya\TiOPO\triangle\triangle\bin\x86\Debug\netcoreapp3.1\Triangle.pdb
+C:\Users\korce\Source\Repos\MaryaKharya\TiOPO\triangle\triangle\obj\x86\Debug\netcoreapp3.1\Triangle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\korce\Source\Repos\MaryaKharya\TiOPO\triangle\triangle\obj\x86\Debug\netcoreapp3.1\Triangle.AssemblyInfoInputs.cache
+C:\Users\korce\Source\Repos\MaryaKharya\TiOPO\triangle\triangle\obj\x86\Debug\netcoreapp3.1\Triangle.AssemblyInfo.cs
+C:\Users\korce\Source\Repos\MaryaKharya\TiOPO\triangle\triangle\obj\x86\Debug\netcoreapp3.1\Triangle.csproj.CoreCompileInputs.cache
+C:\Users\korce\Source\Repos\MaryaKharya\TiOPO\triangle\triangle\obj\x86\Debug\netcoreapp3.1\Triangle.dll
+C:\Users\korce\Source\Repos\MaryaKharya\TiOPO\triangle\triangle\obj\x86\Debug\netcoreapp3.1\Triangle.pdb
+C:\Users\korce\Source\Repos\MaryaKharya\TiOPO\triangle\triangle\obj\x86\Debug\netcoreapp3.1\Triangle.genruntimeconfig.cache

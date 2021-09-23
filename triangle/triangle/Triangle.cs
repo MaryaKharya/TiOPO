@@ -19,6 +19,10 @@ namespace Triangle
                 a = Convert.ToDouble(args[0]);
                 b = Convert.ToDouble(args[1]);
                 c = Convert.ToDouble(args[2]);
+                if (double.IsInfinity(a) || double.IsInfinity(b) || double.IsInfinity(c))
+                {
+                    throw new OverflowException();
+                }
                 if ((a + b > c) && (a + c > b) && (c + b > a) && (a + b + c > 0))
                 {
                     if ((a == b) && (a == c) && (b == c))

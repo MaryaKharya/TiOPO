@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Мария\\source\\repos\\MaryaKharya\\TiOPO\\triangle\\Triangle_test\\Triangle_test.csproj": {}
+    "C:\\Users\\korce\\Source\\Repos\\MaryaKharya\\TiOPO\\triangle\\Triangle_test\\Triangle_test.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Мария\\source\\repos\\MaryaKharya\\TiOPO\\triangle\\triangle\\Triangle.csproj": {
+    "C:\\Users\\korce\\Source\\Repos\\MaryaKharya\\TiOPO\\triangle\\triangle\\Triangle.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Мария\\source\\repos\\MaryaKharya\\TiOPO\\triangle\\triangle\\Triangle.csproj",
+        "projectUniqueName": "C:\\Users\\korce\\Source\\Repos\\MaryaKharya\\TiOPO\\triangle\\triangle\\Triangle.csproj",
         "projectName": "Triangle",
-        "projectPath": "C:\\Users\\Мария\\source\\repos\\MaryaKharya\\TiOPO\\triangle\\triangle\\Triangle.csproj",
-        "packagesPath": "C:\\Users\\Мария\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Мария\\source\\repos\\MaryaKharya\\TiOPO\\triangle\\triangle\\obj\\",
+        "projectPath": "C:\\Users\\korce\\Source\\Repos\\MaryaKharya\\TiOPO\\triangle\\triangle\\Triangle.csproj",
+        "packagesPath": "C:\\Users\\korce\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\korce\\Source\\Repos\\MaryaKharya\\TiOPO\\triangle\\triangle\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Мария\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\korce\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -54,21 +54,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Мария\\source\\repos\\MaryaKharya\\TiOPO\\triangle\\Triangle_test\\Triangle_test.csproj": {
+    "C:\\Users\\korce\\Source\\Repos\\MaryaKharya\\TiOPO\\triangle\\Triangle_test\\Triangle_test.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Мария\\source\\repos\\MaryaKharya\\TiOPO\\triangle\\Triangle_test\\Triangle_test.csproj",
+        "projectUniqueName": "C:\\Users\\korce\\Source\\Repos\\MaryaKharya\\TiOPO\\triangle\\Triangle_test\\Triangle_test.csproj",
         "projectName": "Triangle_test",
-        "projectPath": "C:\\Users\\Мария\\source\\repos\\MaryaKharya\\TiOPO\\triangle\\Triangle_test\\Triangle_test.csproj",
-        "packagesPath": "C:\\Users\\Мария\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Мария\\source\\repos\\MaryaKharya\\TiOPO\\triangle\\Triangle_test\\obj\\",
+        "projectPath": "C:\\Users\\korce\\Source\\Repos\\MaryaKharya\\TiOPO\\triangle\\Triangle_test\\Triangle_test.csproj",
+        "packagesPath": "C:\\Users\\korce\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\korce\\Source\\Repos\\MaryaKharya\\TiOPO\\triangle\\Triangle_test\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Мария\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\korce\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -82,8 +82,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\Мария\\source\\repos\\MaryaKharya\\TiOPO\\triangle\\triangle\\Triangle.csproj": {
-                "projectPath": "C:\\Users\\Мария\\source\\repos\\MaryaKharya\\TiOPO\\triangle\\triangle\\Triangle.csproj"
+              "C:\\Users\\korce\\Source\\Repos\\MaryaKharya\\TiOPO\\triangle\\triangle\\Triangle.csproj": {
+                "projectPath": "C:\\Users\\korce\\Source\\Repos\\MaryaKharya\\TiOPO\\triangle\\triangle\\Triangle.csproj"
               }
             }
           }
@@ -130,7 +130,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     }
