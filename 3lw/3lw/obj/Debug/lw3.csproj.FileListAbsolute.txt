@@ -1,0 +1,7 @@
+C:\Users\korce\source\repos\TiOPO\3lw\3lw\bin\Debug\3lw.exe.config
+C:\Users\korce\source\repos\TiOPO\3lw\3lw\bin\Debug\3lw.exe
+C:\Users\korce\source\repos\TiOPO\3lw\3lw\bin\Debug\3lw.pdb
+C:\Users\korce\source\repos\TiOPO\3lw\3lw\obj\Debug\lw3.csproj.AssemblyReference.cache
+C:\Users\korce\source\repos\TiOPO\3lw\3lw\obj\Debug\lw3.csproj.CoreCompileInputs.cache
+C:\Users\korce\source\repos\TiOPO\3lw\3lw\obj\Debug\3lw.exe
+C:\Users\korce\source\repos\TiOPO\3lw\3lw\obj\Debug\3lw.pdb

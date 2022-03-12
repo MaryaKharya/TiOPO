@@ -1,0 +1,11 @@
+C:\Users\korce\source\repos\lw2\lw2\bin\Debug\lw2.exe.config
+C:\Users\korce\source\repos\lw2\lw2\bin\Debug\lw2.exe
+C:\Users\korce\source\repos\lw2\lw2\bin\Debug\lw2.pdb
+C:\Users\korce\source\repos\lw2\lw2\bin\Debug\HtmlAgilityPack.dll
+C:\Users\korce\source\repos\lw2\lw2\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\korce\source\repos\lw2\lw2\bin\Debug\HtmlAgilityPack.xml
+C:\Users\korce\source\repos\lw2\lw2\obj\Debug\lw2.csproj.AssemblyReference.cache
+C:\Users\korce\source\repos\lw2\lw2\obj\Debug\lw2.csproj.CoreCompileInputs.cache
+C:\Users\korce\source\repos\lw2\lw2\obj\Debug\lw2.csproj.CopyComplete
+C:\Users\korce\source\repos\lw2\lw2\obj\Debug\lw2.exe
+C:\Users\korce\source\repos\lw2\lw2\obj\Debug\lw2.pdb
